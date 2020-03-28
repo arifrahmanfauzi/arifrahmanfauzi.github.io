@@ -102,8 +102,8 @@ ul.address li ul.agileits-address-text li:nth-child(1) {
     padding: 9em 0 0 0;
 }
 .w3-banner-img img {
-    width: 266px;
-    height: 266px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
 }
 .w3-right-addres-1 li {
@@ -811,6 +811,7 @@ background: linear-gradient(to right, #fc67fa, #f4c4f3); /* W3C, IE 10+/ Edge, F
 .skills-bar .bar_group__bar:nth-of-type(1) {
    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
 }
+
     z-index: 9990 !important;
 }
 .skills-bar .bar_group__bar:nth-of-type(2) {
@@ -1286,7 +1287,7 @@ h4.modal-title {
 }
 @media(max-width:1280px){
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -194px 0px;
+    background: url(../images/ban3.JPG) no-repeat -194px 0px;
     background-size: cover;
 	}
 }
@@ -1317,7 +1318,7 @@ h4.modal-title {
     height: 210px;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -376px 0px;
+    background: url(../images/ban3.JPG) no-repeat -376px 0px;
     background-size: cover;
 	}
 	.w3-edu-info2 h3 {
@@ -1414,7 +1415,7 @@ h4.modal-title {
     font-size: 2.3em;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -637px 0px;
+    background: url(../images/ban3.JPG) no-repeat -637px 0px;
     background-size: cover;
 	}
 	.w3-edu-grid-left {
@@ -1504,14 +1505,14 @@ h4.modal-title {
     padding: 7em 0 0 0;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -739px 0px;
+    background: url(../images/ban3.JPG) no-repeat -739px 0px;
     background-size: cover;
 	}
 }
 @media(max-width:600px){
 	.w3-banner-img {
-    width: 257px;
-    height: 257px;
+    width: 280px;
+    height: 350px;
 	}
 	.w3-banner-img {
     padding: 22px;
@@ -1523,7 +1524,7 @@ h4.modal-title {
     margin: 1em;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -834px 0px;
+    background: url(../images/ban3.JPG) no-repeat -834px 0px;
     background-size: cover;
 	}
 	.w3-about-grid-left2 h4 {
@@ -1602,6 +1603,7 @@ h4.modal-title {
 	}
 	.w3-banner-img {
     margin: 0 auto;
+
 	}
 	.w3-banner-grids {
     padding: 4em 0 0 0;
@@ -1636,7 +1638,7 @@ h4.modal-title {
     padding: 13px 0px;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -1005px 0px;
+    background: url(../images/ban3.JPG) no-repeat -1005px 0px;
     background-size: cover;
 	}
 	.title-w3ls h4, .w3ls-heading h3, .w3-gallery-head h3, .w3-about-head h3 {
@@ -1785,6 +1787,12 @@ h4.modal-title {
 	}
 }
 @media(max-width:375px){
+    .w3-banner-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    }
+
 	.w3-about-grid-left2 h3 {
     letter-spacing: 1px;
     font-size: 1.5em;
